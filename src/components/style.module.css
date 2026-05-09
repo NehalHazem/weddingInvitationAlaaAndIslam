@@ -222,11 +222,17 @@
 }
 
 /* IntroSection */
+.IntroSection {
+    background-color: #f5f5f5;
+}
+
 .IntroSection video {
-    height: 100vh;
+    height: calc(100vh - 3rem);
     width: 100vw;
     object-fit: cover;
     padding-top: 3rem;
+    background-color: #f5f5f5;
+
 }
 
 .IntroSection .topPart {
@@ -273,7 +279,7 @@
 
 .IntroSection .bottomPart {
     position: absolute;
-    top: 95%;
+    top: 90%;
     left: 0;
     right: 0;
     text-align: center;
