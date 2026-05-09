@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/weddingInvitationAlaaAndIslam/static/css/main.4c85c6eb.css",
-    "main.js": "/weddingInvitationAlaaAndIslam/static/js/main.186e7cdf.js",
+    "main.js": "/weddingInvitationAlaaAndIslam/static/js/main.bb9c8e09.js",
     "static/js/453.0aac7ea0.chunk.js": "/weddingInvitationAlaaAndIslam/static/js/453.0aac7ea0.chunk.js",
     "static/media/hero-video.mp4": "/weddingInvitationAlaaAndIslam/static/media/hero-video.2d742a3bb7ee3f39d187.mp4",
     "static/media/audio.mp3": "/weddingInvitationAlaaAndIslam/static/media/audio.17fdf13d5d71e066adad.mp3",
@@ -13,11 +13,11 @@
     "static/media/Inter_28pt-Regular.ttf": "/weddingInvitationAlaaAndIslam/static/media/Inter_28pt-Regular.fd012577d3f8e88a8149.ttf",
     "index.html": "/weddingInvitationAlaaAndIslam/index.html",
     "main.4c85c6eb.css.map": "/weddingInvitationAlaaAndIslam/static/css/main.4c85c6eb.css.map",
-    "main.186e7cdf.js.map": "/weddingInvitationAlaaAndIslam/static/js/main.186e7cdf.js.map",
+    "main.bb9c8e09.js.map": "/weddingInvitationAlaaAndIslam/static/js/main.bb9c8e09.js.map",
     "453.0aac7ea0.chunk.js.map": "/weddingInvitationAlaaAndIslam/static/js/453.0aac7ea0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c85c6eb.css",
-    "static/js/main.186e7cdf.js"
+    "static/js/main.bb9c8e09.js"
   ]
 }
