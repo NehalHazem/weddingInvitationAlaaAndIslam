@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weddingInvitationAlaaAndIslam/static/css/main.4c85c6eb.css",
+    "main.js": "/weddingInvitationAlaaAndIslam/static/js/main.186e7cdf.js",
+    "static/js/453.0aac7ea0.chunk.js": "/weddingInvitationAlaaAndIslam/static/js/453.0aac7ea0.chunk.js",
+    "static/media/hero-video.mp4": "/weddingInvitationAlaaAndIslam/static/media/hero-video.2d742a3bb7ee3f39d187.mp4",
+    "static/media/audio.mp3": "/weddingInvitationAlaaAndIslam/static/media/audio.17fdf13d5d71e066adad.mp3",
+    "static/media/CormorantGaramond-Regular.ttf": "/weddingInvitationAlaaAndIslam/static/media/CormorantGaramond-Regular.f4ec820f92b538a265c8.ttf",
+    "static/media/CormorantGaramond-Light.ttf": "/weddingInvitationAlaaAndIslam/static/media/CormorantGaramond-Light.ad32eeef664026f73b29.ttf",
+    "static/media/CormorantGaramond-SemiBoldItalic.ttf": "/weddingInvitationAlaaAndIslam/static/media/CormorantGaramond-SemiBoldItalic.eb6fa9f1eaa7ceafdb75.ttf",
+    "static/media/CormorantGaramond-LightItalic.ttf": "/weddingInvitationAlaaAndIslam/static/media/CormorantGaramond-LightItalic.eb9cad80d4fc3a4d6e42.ttf",
+    "static/media/Inter_28pt-Light.ttf": "/weddingInvitationAlaaAndIslam/static/media/Inter_28pt-Light.37b4b1e40239caa91623.ttf",
+    "static/media/Inter_28pt-Regular.ttf": "/weddingInvitationAlaaAndIslam/static/media/Inter_28pt-Regular.fd012577d3f8e88a8149.ttf",
+    "index.html": "/weddingInvitationAlaaAndIslam/index.html",
+    "main.4c85c6eb.css.map": "/weddingInvitationAlaaAndIslam/static/css/main.4c85c6eb.css.map",
+    "main.186e7cdf.js.map": "/weddingInvitationAlaaAndIslam/static/js/main.186e7cdf.js.map",
+    "453.0aac7ea0.chunk.js.map": "/weddingInvitationAlaaAndIslam/static/js/453.0aac7ea0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c85c6eb.css",
+    "static/js/main.186e7cdf.js"
+  ]
+}
