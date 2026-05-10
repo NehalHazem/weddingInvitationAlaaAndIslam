@@ -54,7 +54,7 @@ const IntroSection = () => {
                 className={[style.startBtn, showContent && style.hideStartBtn].join(' ')}
                 onClick={() => setShowContent(true)}
             >
-                <p>We're happy to annaunce</p>
+                <p>We're happy to announce</p>
 
                 <div className={style.tapContainer}>
                     <div className={style.tapIcon}>
